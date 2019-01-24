@@ -17,3 +17,7 @@ end
 def using_shift (countries_in_western_africa)
   countries_in_western_africa.shift
 end
+
+def shift_with_args (countries_in_western_africa)
+  countries_in_western_africa.shift(2)
+end
