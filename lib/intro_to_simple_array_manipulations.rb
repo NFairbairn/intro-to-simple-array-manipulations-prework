@@ -9,3 +9,7 @@ end
 def using_pop (countries_in_western_africa)
   countries_in_western_africa.pop
 end
+
+def pop_with_args (countries_in_western_africa)
+  countries_in_western_africa.pop(2)
+end
