@@ -13,3 +13,7 @@ end
 def pop_with_args (countries_in_western_africa)
   countries_in_western_africa.pop(2)
 end
+
+def using_shift (countries_in_western_africa)
+  countries_in_western_africa.shift
+end
